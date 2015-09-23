@@ -45,14 +45,14 @@ Floobits allow you to share you text editor with the students in their browser. 
 
 You can also use this tool in a live-code situation. The idea is that you can allow students to edit in their browser, and changes will be synced back to your own text editor, which is video-projected by the way :)
 
-### Setup
+#### Setup
 
 1. Go to [Floobits](https://floobits.com/signup) and sign up with GitHub, it's free
 1. Go to the *Settings* tab, you should find instructions to create your `~/.floorc.json` file
 1. Install the *Floobits* package using the Package Control in Sublime Text
 1. Install the binary [`flootty`](https://github.com/Floobits/flootty) with `pip install Flootty`
 
-### Using Floobits in a lecture/workshop
+#### Using Floobits in a lecture/workshop
 
 When doing a lecture, you should have prepare some live code examples to illustrate the slides. So basically, you `mkdir` a new folder, and `stt` into it. From Sublime Text, go to `Tools / Floobits / Share Directory (Public)`. This will give you an URL that you should share with students on Slack.
 
@@ -64,7 +64,9 @@ To share your terminal session with the students, just run:
 $ flootty
 ```
 
-### Using Floobits in an interactive live-code
+The `-P` and `--unsafe` flags.
+
+#### Using Floobits in an interactive live-code
 
 In a live-code, students stay at their seat. You can ask them to edit the code.
 
