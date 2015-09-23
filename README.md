@@ -18,4 +18,4 @@ When you are video-projecting your screen, please follow these guidelines:
   - Sublime Text in full screen
   - Vertical split (50/50) with Sublime Text on the right, Terminal on the left
 
-
+![Split Layout](img/split_layout.png)
