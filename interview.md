@@ -1,4 +1,4 @@
-Let's plan a skype where you will run a morning lecture in front of Le Wagon's team and get our feedback.
+Let's plan a skype where you will run a lecture in front of Le Wagon's team and get our feedback.
 
 ## Setup
 
