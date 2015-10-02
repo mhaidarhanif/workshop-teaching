@@ -2,7 +2,7 @@ Let's plan a skype where you will run a lecture in front of Le Wagon's team and 
 
 ## Setup
 
-Before you start, please setup your computer with Sublime and Floobits as described in (our teaching guidelines)[https://github.com/lewagon/teaching]. You will use Floobits to run the course.
+Before you start, please setup your computer with Sublime and Floobits as described in [our teaching guidelines](https://github.com/lewagon/teaching). You will use Floobits to run the course.
 
 ## Preparation
 
