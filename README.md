@@ -5,7 +5,7 @@ Here is a list of guidelines you should follow during a workshop or a lecture.
 ## Display
 
 The closer your own setup is to the [standard student's one](https://github.com/lewagon/setup),
-the better. That way you can share with them keyboard shortcuts. We use [Sublime Text 2](https://github.com/lewagon/setup).
+the better. That way you can share with them keyboard shortcuts. We use [Sublime Text 3](https://github.com/lewagon/setup).
 
 When you are video-projecting your screen, please follow these guidelines:
 
@@ -41,7 +41,7 @@ This will automatically create a private gist with **all the ruby files** in the
 
 ### Floobits
 
-Floobits allow you to share you text editor with the students in their browser. This way, they have the code in front of their eyes, they can copy/paste it to their notes. If you have multiple files, they can browse them independently from you, which is very convinient in a Rails project with a lot of small files.
+Floobits allow you to share you text editor with the students in their browser. This way, they have the code in front of their eyes, they can copy/paste it to their notes. If you have multiple files, they can browse them independently from you, which is very convenient in a Rails project with a lot of small files.
 
 You can also use this tool in a live-code situation. The idea is that you can allow students to edit in their browser, and changes will be synced back to your own text editor, which is video-projected by the way :)
 
