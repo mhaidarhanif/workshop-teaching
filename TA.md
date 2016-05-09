@@ -28,4 +28,4 @@ Don't underestimate your value in this bootcamp :)
 
 ## Live-code
 
-If you need to drive a live-code, refer to the [teaching display guide](https://github.com/lewagon/teaching#display)
+If you need to drive a live-code, refer to the [teaching display guide](TEACHER.md#display)
