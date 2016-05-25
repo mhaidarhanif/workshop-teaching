@@ -15,7 +15,7 @@ We would like you to prepare and screencast two courses of the bootcamp:
 
 Some recommendations to help you prepare:
 
-- Start by watching the video (you can switch to "accelerate mode") to understand the flow of the course, the examples and the live-codes used. You can take notes on a sheet of paper.
+- Start by watching the video (you can put "accelerate mode") to understand the flow of the course, the examples and the live-codes used. You can take notes on a sheet of paper.
 - Then go through the slides to see how you plan to alternate between slides and live-codes.
 - Preparation should take you about one hour.
 - Finally, just launch Quicktime, it's your turn!
