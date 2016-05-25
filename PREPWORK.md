@@ -2,7 +2,7 @@ Here is a small preparation work to be teaching at Le Wagon.
 
 ## Setup
 
-Before you start, please have a look at [our teaching guidelines](https://github.com/lewagon/teaching).
+Before you start, please have a look at [our teaching guidelines](https://github.com/lewagon/teaching/blob/master/TEACHER.md).
 
 ## Screencasts
 
