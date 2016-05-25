@@ -22,4 +22,4 @@ Some recommendations to help you prepare:
 
 Do not hesitate to contact us if you have any questions (boris@lewagon.org). 
 
-See you soon on the screencast!
+See you on the screencast!
