@@ -11,7 +11,7 @@ We would like you to prepare and screencast two courses of the bootcamp:
 - [Ruby, hash & symbols](https://vimeo.com/157108052)
 - [Rails, introduction](https://vimeo.com/154831458)
 - Vimeo password is `teachers-prepwork`
-- Find the corresponding slides in the `prepwork` folder.
+- Slides are [here](https://github.com/lewagon/teaching/tree/master/prepwork)
 
 Some recommendations to help you prepare:
 
