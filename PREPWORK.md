@@ -6,7 +6,7 @@ Before you start, please have a look at [our teaching guidelines](https://github
 
 ## Screencasts
 
-We would like you to prepare and screencast 1/2 courses of the bootcamp:
+We would like you to prepare and screencast courses of the bootcamp. 2 lessons to screencast for backend teachers, 1 only for frontend teachers:
 
 - [Ruby, hash & symbols](https://vimeo.com/157108052) for *backend teachers*
 - [Rails, introduction](https://vimeo.com/154831458) for *backend teachers*
