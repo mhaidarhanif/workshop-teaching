@@ -6,10 +6,11 @@ Before you start, please have a look at [our teaching guidelines](https://github
 
 ## Screencasts
 
-We would like you to prepare and screencast two courses of the bootcamp:
+We would like you to prepare and screencast 1/2 courses of the bootcamp:
 
-- [Ruby, hash & symbols](https://vimeo.com/157108052)
-- [Rails, introduction](https://vimeo.com/154831458)
+- [Ruby, hash & symbols](https://vimeo.com/157108052) for *backend teachers*
+- [Rails, introduction](https://vimeo.com/154831458) for *backend teachers*
+- [CSS components](https://vimeo.com/153903309) for *frontend teachers*
 - Vimeo password is `teachers-prepwork`
 - Slides are [here](https://github.com/lewagon/teaching/tree/master/prepwork)
 
@@ -23,3 +24,4 @@ Some recommendations to help you prepare:
 Do not hesitate to contact us if you have any questions (boris@lewagon.org). 
 
 See you on the screencast!
+
