@@ -8,9 +8,9 @@ Before you start, please have a look at [our teaching guidelines](https://github
 
 We would like you to prepare and screencast courses of the bootcamp. 2 lessons to screencast for backend teachers, 1 only for frontend teachers:
 
-- [Ruby, hash & symbols](https://vimeo.com/157108052) for *backend teachers*
-- [Rails, introduction](https://vimeo.com/154831458) for *backend teachers*
-- [CSS components](https://vimeo.com/153903309) for *frontend teachers*
+- [Ruby, hash & symbols](https://vimeo.com/174803843) for *backend teachers*
+- [Rails, introduction](https://vimeo.com/178895411) for *backend teachers*
+- [CSS components](https://vimeo.com/178008646) for *frontend teachers*
 - Vimeo password is `teachers-prepwork`
 - Slides are [here](https://github.com/lewagon/teaching/tree/master/prepwork)
 
