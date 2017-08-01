@@ -37,39 +37,3 @@ $ gist -p *.rb
 ```
 
 This will automatically create a private gist with **all the ruby files** in the current folder. The program will give you the gist private URL that you can then share on Slack.
-
-
-### Floobits
-
-Floobits allow you to share you text editor with the students in their browser. This way, they have the code in front of their eyes, they can copy/paste it to their notes. If you have multiple files, they can browse them independently from you, which is very convenient in a Rails project with a lot of small files.
-
-You can also use this tool in a live-code situation. The idea is that you can allow students to edit in their browser, and changes will be synced back to your own text editor, which is video-projected by the way :)
-
-#### Setup
-
-1. Go to [Floobits](https://floobits.com/signup) and sign up with GitHub, it's free
-1. Go to the *Settings* tab, you should find instructions to create your `~/.floorc.json` file
-1. Install the *Floobits* package using the Package Control in Sublime Text
-1. Install the binary [`flootty`](https://github.com/Floobits/flootty) with `pip install Flootty`
-
-#### Using Floobits in a lecture/workshop
-
-When doing a lecture, you should have prepare some live code examples to illustrate the slides. So basically, you `mkdir` a new folder, and `stt` into it. From Sublime Text, go to `Tools / Floobits / Share Directory (Public)`. This will give you an URL that you should share with students on Slack.
-
-When you create a new file and you want everybody to be on the page, you can right click in the file, and select `Floobits / Summon`.
-
-To share your terminal session with the students, just run:
-
-```bash
-$ flootty
-```
-
-The `-P` and `--unsafe` flags.
-
-#### Using Floobits in an interactive live-code
-
-In a live-code, students stay at their seat. You can ask them to edit the code.
-
-After having shared a new workspace, you should go to `https://floobits.com/<USERNAME>/<WORKSPACE>/permissions`. You should check the `Request Perms` option, and save.
-
-That way, students will be able to hit `Collaborate / Request Permission to Edit` to edit the code.
